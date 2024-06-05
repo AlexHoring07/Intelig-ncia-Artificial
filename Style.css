@@ -41,3 +41,9 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
