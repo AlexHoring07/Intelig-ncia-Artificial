@@ -2,8 +2,8 @@
     --cor-fundo: #808080 ;
     --cor-principal: #ADD8E6 ;
     --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #000000;
+    --cor-destaque: #000000;
+    --cor-texto: #0015A0;
 
 }
 
@@ -19,7 +19,7 @@ body {
 .caixa-principal{
     background-color: var(--cor-principal);
     width: 90%;
-    max-width: 850px;
+    max-width: 2700px;
     text-align: center;
     padding: 20px;
 }
